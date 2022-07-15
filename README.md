@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning Rust and AWS Cloud Architecture
 - 💞️ I’m looking to collaborate on Javascript Projects
-- 📫 How to reach me, email: jesusfernxndez10@gmail.com
+- 📫 Write to my email: jesusfernxndez10@gmail.com
 
 <!---
 jesusfernxndez/jesusfernxndez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
