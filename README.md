@@ -1,102 +1,27 @@
+<div align="center">
+
 # 👋 Hi, I'm Jesus Fernandez
 
-💻 Fullstack & DevOps engineer · Web apps, APIs, cloud infrastructure & CI/CD pipelines · Passionate about clean code & automation 🚀
+💻 Fullstack & DevOps Engineer  
+🌐 I build modern web apps, APIs & automate cloud infrastructure  
+🚀 Passionate about clean code, CI/CD & developer experience
 
 ---
 
-## 🧠 About Me
+### 🛠️ Favorite Stack
 
-I'm a Fullstack Developer with a strong interest in DevOps, Cloud Engineering and automation. I enjoy building modern web applications and automating their deployment with clean and scalable infrastructure.
-
----
-
-## 🛠️ Tech Stack
-
-### 💖 Favorite Stack
-
-- **Languages**: TypeScript, JavaScript, Python, Go, Bash
-- **Frontend**: React, Next.js, Astro
-- **Backend**: Node.js, Go (Gin), Python (Flask)
-- **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Kubernetes, ArgoCD
-- **Cloud & Infra**: Cloudflare, AWS, Terraform, IaC
-
-### 🧰 Additional Experience
-
-- **Frontend**: Vue.js, Nuxt.js, HTML/CSS, Tailwind CSS, SASS
-- **Backend**: Express.js, FastAPI, Prisma, MongoDB, PostgreSQL, MySQL
-- **DevOps**: Nginx, PM2, DigitalOcean, GCP, Netlify, Vercel
-- **Infra Tools**: Ansible, GitLab CI/CD, Docker Compose
+TypeScript · Astro · React · Next.js · Node.js · Go · Docker · Kubernetes · Terraform · Cloudflare
 
 ---
 
-## 🚀 Currently Working On
+### 📫 Contact Me
 
-- Enriching my public GitHub profile with interesting and varied projects
-- Creating private technical content and tooling
-- Automating infrastructure with Terraform, ArgoCD & CI/CD
-- Deploying fullstack and API projects to free-tier cloud platforms
-
----
-
-## 🌐 Connect with Me
-
-- 🌍 Website: [jesusfernandez.me](https://jesusfernandez.me)
-- 📫 Email: [jesus@jesusfernandez.me](mailto:jesus@jesusfernandez.me)
-- 🕵️‍♂️ ProtonMail: [jesusf@protonmail.com](mailto:jesusf@protonmail.com)
-- 🐙 GitHub: [@jesusfernxndez](https://github.com/jesusfernxndez)
-- 💼 LinkedIn: [linkedin.com/in/jesusfernandez](https://www.linkedin.com/in/jesus-fernandez-48a916198/)
+[![Website](https://img.shields.io/badge/jesusfernandez.me-000?style=flat&logo=firefox&logoColor=white)](https://jesusfernandez.me)
+[![Email](https://img.shields.io/badge/Email-me-blue?style=flat&logo=gmail)](mailto:jesus@jesusfernandez.me)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-privacy-blueviolet?style=flat&logo=protonmail)](mailto:jesusf@protonmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-jesusfernxndez-181717?style=flat&logo=github)](https://github.com/jesusfernxndez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus%20Fernandez-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jesusfernandez)
 
 ---
 
-> 📌 This README is automatically displayed on my GitHub profile. Thanks for visiting!
-# 👋 Hi, I'm Jesus Fernandez
-
-💻 Fullstack & DevOps engineer · Web apps, APIs, cloud infrastructure & CI/CD pipelines · Passionate about clean code & automation 🚀
-
----
-
-## 🧠 About Me
-
-I'm a Fullstack Developer with a strong interest in DevOps, Cloud Engineering and automation. I enjoy building modern web applications and automating their deployment with clean and scalable infrastructure.
-
----
-
-## 🛠️ Tech Stack
-
-### 💖 Favorite Stack
-
-- **Languages**: TypeScript, JavaScript, Python, Go, Bash
-- **Frontend**: React, Next.js, Astro
-- **Backend**: Node.js, Go (Gin), Python (Flask)
-- **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Kubernetes, ArgoCD
-- **Cloud & Infra**: Cloudflare, AWS, Terraform, IaC
-
-### 🧰 Additional Experience
-
-- **Frontend**: Vue.js, Nuxt.js, HTML/CSS, Tailwind CSS, SASS
-- **Backend**: Express.js, FastAPI, Prisma, MongoDB, PostgreSQL, MySQL
-- **DevOps**: Nginx, PM2, DigitalOcean, GCP, Netlify, Vercel
-- **Infra Tools**: Ansible, GitLab CI/CD, Docker Compose
-
----
-
-## 🚀 Currently Working On
-
-- Enriching my public GitHub profile with interesting and varied projects
-- Creating private technical content and tooling
-- Automating infrastructure with Terraform, ArgoCD & CI/CD
-- Deploying fullstack and API projects to free-tier cloud platforms
-
----
-
-## 🌐 Connect with Me
-
-- 🌍 Website: [jesusfernandez.me](https://jesusfernandez.me)
-- 📫 Email: [jesus@jesusfernandez.me](mailto:jesus@jesusfernandez.me)
-- 🕵️‍♂️ ProtonMail: [jesusf@protonmail.com](mailto:jesusf@protonmail.com)
-- 🐙 GitHub: [@jesusfernxndez](https://github.com/jesusfernxndez)
-- 💼 LinkedIn: [linkedin.com/in/jesusfernandez](https://www.linkedin.com/in/jesus-fernandez-48a916198/)
-
----
-
-> 📌 This README is automatically displayed on my GitHub profile. Thanks for visiting!
+</div>
