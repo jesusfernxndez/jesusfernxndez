@@ -17,20 +17,20 @@
 
   - 🌍 [jesusfernandez.me](https://jesusfernandez.me)  
   - 📧 [jesus@jesusfernandez.me](mailto:jesus@jesusfernandez.me)  
-  - 🕵️‍♂️ [jesusf@protonmail.com](mailto:jesusf@protonmail.com)  
+  - 🕵️‍♂️ [ProtonMail](mailto:jesusfernandezz@proton.me)  
   - 🐙 [GitHub](https://github.com/jesusfernxndez)  
-  - 💼 [LinkedIn](https://linkedin.com/in/jesusfernandez)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/jesus-fernandez-48a916198)
 
   </td>
 
   <!-- RIGHT TOP: GitHub Stats -->
-  <td valign="top">
+  <td valign="top" width="400">
     <img src="https://github-readme-stats.vercel.app/api?username=jesusfernxndez&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" />
   </td>
 </tr>
 <tr>
   <!-- RIGHT BOTTOM: GitHub Streak -->
-  <td valign="top">
+  <td valign="top" width="400">
     <img src="https://streak-stats.demolab.com/?user=jesusfernxndez&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </td>
 </tr>
