@@ -24,13 +24,13 @@
   </td>
 
   <!-- RIGHT TOP: GitHub Stats -->
-  <td valign="top" width="400">
+  <td valign="top" width="600">
     <img src="https://github-readme-stats.vercel.app/api?username=jesusfernxndez&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" />
   </td>
 </tr>
 <tr>
   <!-- RIGHT BOTTOM: GitHub Streak -->
-  <td valign="top" width="400">
+  <td valign="top" width="600">
     <img src="https://streak-stats.demolab.com/?user=jesusfernxndez&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </td>
 </tr>
