@@ -25,13 +25,13 @@
 
   <!-- RIGHT TOP: GitHub Stats -->
   <td valign="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=jesusfernxndez&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jesusfernxndez&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=false&border_radius=10" alt="GitHub Stats" />
   </td>
 </tr>
 <tr>
   <!-- RIGHT BOTTOM: GitHub Streak -->
   <td valign="top">
-    <img src="https://streak-stats.demolab.com/?user=jesusfernxndez&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=jesusfernxndez&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </td>
 </tr>
 </table>
@@ -44,18 +44,18 @@
 
 ### 💖 Favorite Stack
 
-- **Languages**: TypeScript, JavaScript, Python, Go, Bash
-- **Frontend**: React, Next.js, Astro
-- **Backend**: Node.js, Go (Gin), Python (Flask)
-- **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Kubernetes, ArgoCD
-- **Cloud & Infra**: Cloudflare, AWS, Terraform, IaC
+- 🧠 **Languages**: TypeScript, JavaScript, Python, Go, Bash
+- 🎨 **Frontend**: React, Next.js, Astro
+- ⚙️ **Backend**: Node.js, Go (Gin), Python (Flask)
+- 🛠️ **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Kubernetes, ArgoCD
+- ☁️ **Cloud & Infra**: Cloudflare, AWS, Terraform, IaC
 
 ### 🧰 Additional Experience
 
-- **Frontend**: Vue.js, Nuxt.js, HTML/CSS, Tailwind CSS, SASS
-- **Backend**: Express.js, FastAPI, Prisma, MongoDB, PostgreSQL, MySQL
-- **DevOps**: Nginx, PM2, DigitalOcean, GCP, Netlify, Vercel
-- **Infra Tools**: Ansible, GitLab CI/CD, Docker Compose
+- 🖼️ **Frontend**: Vue.js, Nuxt.js, HTML/CSS, Tailwind CSS, SASS
+- 🧩 **Backend**: Express.js, FastAPI, Prisma, MongoDB, PostgreSQL, MySQL
+- 📦 **DevOps**: Nginx, PM2, DigitalOcean, GCP, Netlify, Vercel
+- 🧪 **Infra Tools**: Ansible, GitLab CI/CD, Docker Compose
 
 ---
 
